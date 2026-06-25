@@ -1,81 +1,144 @@
 <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/f134b387-92a2-439d-8c9c-ad9dde910179" />
 
-# Hi 👋, I'm Amir
+<div align="center">
 
-## Backend Engineer | Network Specialist (MCSE)
+# 👨‍💻 Amir
 
-I'm a passionate Backend Developer and Microsoft Certified Solutions Expert (MCSE) with experience in designing, developing, and maintaining scalable web applications, APIs, and network infrastructures.
+### Backend Engineer • Network Specialist • MCSE
 
-I enjoy solving complex technical challenges, building reliable systems, and continuously learning new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=PHP+%7C+Laravel+%7C+Python+%7C+Django+%7C+Node.js;Backend+Architecture+%26+API+Development;Network+Infrastructure+%7C+MCSE;Building+Scalable+and+Secure+Systems" />
 
----
+<br>
 
-## 🚀 Tech Stack
+<img src="https://komarev.com/ghpvc/?username=oxin19&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
-### Backend Development
-
-* PHP
-* Laravel
-* Python
-* Django
-* Node.js
-* JavaScript
-
-### Databases
-
-* MySQL
-* PostgreSQL
-
-### Networking & Infrastructure
-
-* Microsoft MCSE
-* Network Administration
-* System Security
-* Windows Server
-* Linux Server Management
-
-### Tools & Technologies
-
-* Git & GitHub
-* RESTful APIs
-* Nginx
-* Apache
-* Docker (Learning & Development)
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 About Me
 
-* Advanced Software Architecture
-* DevOps Practices
-* Cloud Infrastructure
-* Microservices
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
+🔹 Backend Engineer with a passion for scalable architectures
 
-## 🎯 Areas of Interest
+🔹 Microsoft Certified Solutions Expert (MCSE)
 
-* Backend Development
-* API Design
-* System Architecture
-* Network Engineering
-* Infrastructure Automation
-* Cyber Security
+🔹 Specialized in API Design & Development
 
----
+🔹 Experienced in Linux & Windows Server Administration
 
-## 📊 GitHub Stats
+🔹 Strong background in Enterprise Networking
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxin19\&show_icons=true)
+🔹 Interested in DevOps, Security & Cloud Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oxin19\&layout=compact)
+🔹 Lifelong learner and problem solver
+
+<br clear="right"/>
 
 ---
 
-## 📫 Contact
+## ⚙️ Tech Arsenal
 
-GitHub: https://github.com/oxin19
+### 💻 Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,javascript" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🖥️ Infrastructure & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash,git,github,vscode" />
+</p>
 
 ---
 
-> "Building scalable applications, secure networks, and reliable infrastructures."
+## 🌐 Networking Expertise
+
+| 🏆 Certification      | 🛠 Expertise                 |
+| --------------------- | ---------------------------- |
+| MCSE                  | Enterprise Networking        |
+| Windows Server        | Active Directory             |
+| Routing & Switching   | Infrastructure Design        |
+| Network Security      | Monitoring & Troubleshooting |
+| Server Administration | System Optimization          |
+
+---
+
+## 🎯 Current Focus
+
+```text
+✓ Backend Architecture
+✓ Laravel Ecosystem
+✓ Django Applications
+✓ RESTful API Design
+✓ DevOps Practices
+✓ Cloud Infrastructure
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oxin19&show_icons=true&count_private=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxin19&layout=compact"/>
+
+<img src="https://streak-stats.demolab.com?user=oxin19"/>
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<img src="https://img.shields.io/badge/Microsoft-MCSE-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+---
+
+## 🎖 Professional Interests
+
+🔐 Cyber Security
+
+⚡ High Performance Systems
+
+☁️ Cloud Computing
+
+🔧 Infrastructure Automation
+
+📡 Enterprise Networking
+
+🏗 Software Architecture
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/oxin19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Motto
+
+> **Code with Purpose**
+> **Build with Reliability**
+> **Scale with Confidence**
+
+</div>
+
+

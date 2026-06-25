@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/f134b387-92a2-439d-8c9c-ad9dde910179" />
+
 # Hi 👋, I'm Amir
 
 ## Backend Engineer | Network Specialist (MCSE)
